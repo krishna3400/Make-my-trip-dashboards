@@ -2,7 +2,6 @@
 
 An interactive **Power BI** dashboard that analyzes MakeMyTrip booking data from **Jan 2024 to Aug 2026**. It turns raw booking, customer, and revenue data into insights on demand, revenue drivers, booking channels, and cancellations.
 
-![Dashboard Preview](Screenshot 2026-09-14 205912.png)
 
 ## 📌 Project Overview
 
